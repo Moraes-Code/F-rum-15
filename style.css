@@ -1,3 +1,9 @@
-body{
-    background-image: url(Assets/Basquete.png);
+body {
+    overflow: hidden;
+
+    background-image: url(Assets/Background.png);
+    background-size: cover;
+    background-position: center;  
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
 }
